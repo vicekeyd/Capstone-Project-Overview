@@ -1,5 +1,6 @@
 # Capstone-Project-Overview
 Super Chain Token (SCT) - Revolutionizing Supermarket Supply Chain with Blockchain Technology
+
 The Super Chain Token (SCT) project is a groundbreaking initiative aimed at revolutionizing the supermarket supply chain using blockchain technology. By leveraging the power of distributed ledger technology, the project seeks to address the inherent challenges and inefficiencies in traditional supply chain systems, bringing transparency, security, and efficiency to the forefront. The project's ultimate goal is to create a robust ecosystem that benefits both supermarkets and customers, driving crypto adoption and fostering a seamless commerce experience.
 
 The supermarket industry plays a vital role in the economy of any nation, ensuring the availability of essential goods and contributing to job creation and economic growth. However, existing supply chain systems often suffer from issues such as counterfeit goods, inventory discrepancies, and manual record-keeping, leading to losses, inefficiencies, and a lack of trust between stakeholders. The Super Chain Token project recognizes these challenges and aims to provide a comprehensive solution.
